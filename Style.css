@@ -1,0 +1,32 @@
+
+.jumbotron{
+    background-image:url(Anfield.jpg);
+    background-attachment: scroll;
+    background-size: 100%;
+}
+.lead{
+    font-size: 30px;
+}
+.my-4{
+    color: white;
+}
+.three{
+        height: 200px;
+}
+body{
+    background-image:url(background.jpg);
+    background-attachment:fixed; 
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top center;
+
+}
+table{
+    color: white;
+}
+.h1{
+    color: red;
+}
+.video{
+    height:400px;
+}
